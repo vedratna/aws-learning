@@ -1,3 +1,2 @@
 # aws-learning
-* https://github.com/vedratna/aws-learning/wiki/Monitoring-and-Reporting-in-AWS
-* https://github.com/vedratna/aws-learning/wiki/Security-in-AWS
+* Wiki pages: https://github.com/vedratna/aws-learning/wiki
